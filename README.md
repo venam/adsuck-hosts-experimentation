@@ -16,7 +16,7 @@ domain name appended, it will still spoof the answer.
 All non-spoofed responses are cached for the duration of the provided DNS TTL
 (Time To Live).  The cache will be purged when adsuck receives a HUP or USR1 signal.  See the SIGNALS section for more details.
 
-Adsuck is written in C, is lightweight, and extremely fast.
+Adsuck is written in C, is lightweight, and extremely fast (faster than the hosts file and faster than a web proxy).
 
 ####Setting adsuck
 * create a chroot directory for adsuck with 755 permissions and owner root (e.g. /var/adsuck) 
@@ -42,6 +42,7 @@ You can get hosts file from :
 * http://www.mvps.org/winhelp2002/hosts.txt
 * http://rlwpx.free.fr/WPFF/hosts.htm
 * http://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts
+* http://someonewhocares.org/hosts/ (funny one)
 Or directly from this repo.
 
 ####The testing idea
