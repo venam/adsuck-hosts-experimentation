@@ -29,6 +29,7 @@ Adsuck is written in C, is lightweight, and extremely fast.
 * modify /etc/resolv.conf to nameserver 127.0.0.1
 * add prepend domain-name-servers 127.0.0.1; to dhclient.conf
 * /usr/bin/adsuck -D -c /var/adsuck -f /resolv.conf /hosts -r filter this should be started as a daemon.
+* If you use a Firefox variant edit this config:browser.xul.error_pages.enabled and turn it to false to not show the annoying part of the page that didn't load.
 
 
 ####The Filter File
