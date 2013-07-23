@@ -3,6 +3,10 @@
 
 127.0.0.1  facebook.com
 127.0.0.1  twitter.com
+127.0.0.1  stumbleupon.com
+127.0.0.1  waplog.net
+127.0.0.1  kitopr.com
+127.0.0.1  pixel.tapad.com
 127.0.0.1  a.akamaihd
 127.0.0.1  fr.a2dfp.net
 127.0.0.1  m.fr.a2dfp.net
@@ -3006,6 +3010,7 @@
 127.0.0.1  rcm.amazon.com
 127.0.0.1  rcm-images.amazon.com
 127.0.0.1  alexa-sitestats.s3.amazonaws.com
+127.0.0.1  amazonaws.com
 # [Amazon.com][AS14618][107.20.0.0 - 107.23.255.255]
 127.0.0.1  ad.360yield.com
 127.0.0.1  fw.adsafeprotected.com
@@ -3377,7 +3382,7 @@
 127.0.0.1  ncads.s3.amazonaws.com
 127.0.0.1  tracking.opencandy.com.s3.amazonaws.com
 127.0.0.1  viewerstats.docstoc.com.s3.amazonaws.com
-127.0.0.1  www.assoc-amazon.com
+127.0.0.1  assoc-amazon.com
 127.0.0.1  s3.buysellads.com
 127.0.0.1  new.cetrk.com
 127.0.0.1  trk.cetrk.com #[s3-1.amazonaws.com]

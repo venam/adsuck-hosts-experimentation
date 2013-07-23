@@ -2,10 +2,24 @@
 facebook.com
 twitter.com
 ^i\.po\.st
+#those may be a little over board
+^subscribe\. 
+\.send\.
+^vote\.
+^font\.
+^tempest\.
+^fonts\.
+^rest\.
+^widget\.
+^widgets\.
+#######
+^as\.mc\.
+^adfp\.
 ^.*-a.akamaihd
 ^count(er)?[0-9]+?\.
 ^banners?[0-9]+?\.
 ^ad(s|srv|serv|serve|server|v|vert)?[0-9]+?\.
+^bid\.
 ^clicks?\.
 ^[a-z][0-9]+\.[a-z]\.akamaiedge\.net
 ^[a-z][0-9]+\.[a-z]\.akastream\.net
@@ -34,5 +48,7 @@ cqcounter\.com
 liveadvert
 dynamic\.dol\.ru
 doubleclick
+^static\.
+^connect\.
 erasercash
 fastclick

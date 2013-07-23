@@ -2,6 +2,7 @@
 
 This is a repository where I keep my hosts file and filter file for adsuck.
 I intend to block ton of hosts and unblock only if I see the necessity.
+Why would someone want to load third party ads and loose time that should be spent to load the page.
 
 ####Adsuck
 
