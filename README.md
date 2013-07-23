@@ -36,7 +36,7 @@ The filter file contains Regex. If those regex matches the domain to resolve the
 Do not leave an empty line in this file otherwise all the websites will get filtered.
 
 ####The hosts File
-This contains host to block.
+This contains hosts to block.
 You can get hosts file from :
 * http://www.mvps.org/winhelp2002/hosts.txt
 * http://rlwpx.free.fr/WPFF/hosts.htm
@@ -44,4 +44,4 @@ You can get hosts file from :
 Or directly from this repo.
 
 ####The testing idea
-I intend to block a huge list of fishy website and unblock bit ny bit what I really need.
+I intend to block a huge list of fishy websites and unblock bit ny bit what I really need.
