@@ -1,7 +1,7 @@
 ##adsuck experiment
 
-This is a repository where I keep my host file and filter file for adsuck.
-I intend to block ton of host and unblock only if I see the necessity.
+This is a repository where I keep my hosts file and filter file for adsuck.
+I intend to block ton of hosts and unblock only if I see the necessity.
 
 ####Adsuck
 
