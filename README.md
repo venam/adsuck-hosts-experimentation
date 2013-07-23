@@ -50,3 +50,4 @@ You can get hosts file from :
 ####The testing idea
 I intend to block a huge list of fishy websites and unblock bit by bit what I really need.
 Contributions are highly welcomed.
+If you want to contribute you can check what is loaded in a page using the NET tool of firebug.
