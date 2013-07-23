@@ -46,3 +46,4 @@ Or directly from this repo.
 
 ####The testing idea
 I intend to block a huge list of fishy websites and unblock bit ny bit what I really need.
+Contributions are highly welcomed.
