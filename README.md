@@ -17,6 +17,7 @@ All non-spoofed responses are cached for the duration of the provided DNS TTL
 (Time To Live).  The cache will be purged when adsuck receives a HUP or USR1 signal.  See the SIGNALS section for more details.
 
 Adsuck is written in C, is lightweight, and extremely fast (faster than the hosts file and faster than a web proxy).
+NOTE: Adsuck doesn't cache the response longer than the TTL. If you want to have something that keeps cache internet addresses you should take a look at dnsmask.
 
 ####Setting adsuck
 * create a chroot directory for adsuck with 755 permissions and owner root (e.g. /var/adsuck) 
