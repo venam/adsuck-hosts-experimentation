@@ -44,7 +44,7 @@ You can get hosts file from :
 * http://rlwpx.free.fr/WPFF/hosts.htm
 * http://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts
 * http://someonewhocares.org/hosts/ (funny one)
-Or directly from this repo.
+* Or directly from this repo.
 
 ####The testing idea
 I intend to block a huge list of fishy websites and unblock bit ny bit what I really need.
