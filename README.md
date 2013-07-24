@@ -48,6 +48,7 @@ You can get hosts file from :
 * Or directly from this repo.
 
 ####The testing idea
-I intend to block a huge list of fishy websites and unblock bit by bit what I really need.
-Contributions are highly welcomed.
-If you want to contribute you can check what is loaded in a page using the NET tool of firebug.
+I intend to block a huge list of fishy websites and unblock bit by bit what I really need.  
+Contributions are highly welcomed.  
+If you want to contribute you can check what is loaded in a page using the NET tool of firebug.  
+It might take time to analyse if only the good request are loaded but if multpliple person helps out then most of the geeky website will safe.  
