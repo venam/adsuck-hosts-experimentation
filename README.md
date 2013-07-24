@@ -45,6 +45,7 @@ You can get hosts file from :
 * http://rlwpx.free.fr/WPFF/hosts.htm
 * http://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts
 * http://someonewhocares.org/hosts/ (funny one)
+* https://github.com/StevenBlack/hosts
 * Or directly from this repo.
 
 ####The testing idea
