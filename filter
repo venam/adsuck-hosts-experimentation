@@ -1,12 +1,17 @@
 # computer names
-facebook.com
-twitter.com
+facebook\.com
+twitter\.com
 ^i\.po\.st
 #those may be a little over board
 ^subscribe\. 
 \.send\.
+/analytics/
+^donate\.
+/analytic/
 ^vote\.
 ^affiliates\.
+^connect\.
+^static\.[^4]
 ^store\.
 ^font\.
 ^tempest\.
@@ -14,14 +19,15 @@ twitter.com
 ^rest\.
 ^widget\.
 ^widgets\.
+^stats\.
 #######
 ^as\.mc\.
 ^adfp\.
-^.*-a.akamaihd
+-a.akamaihd
 ^count(er)?[0-9]+?\.
 ^banners?[0-9]+?\.
 ^ad(s|srv|serv|serve|server|v|vert)?[0-9]+?\.
-banner|ads|stat[^i][^c]|track|[^u]click|adx|2o7|hitbox|count|meter
+#banner|ads|stat[^i][^c]|track|[^u]click|adx|2o7|hitbox|count|meter
 ^bid\.
 ^clicks?\.
 ^[a-z][0-9]+\.[a-z]\.akamaiedge\.net
@@ -30,7 +36,6 @@ banner|ads|stat[^i][^c]|track|[^u]click|adx|2o7|hitbox|count|meter
 ^[a-z][0-9]+\.[a-z]\.a\.yimg\.com
 ^[a-z][0-9]+\.[a-z]\.ak\.nbci\.com
 ^pub[0-9]\.
-^stats\.
 ^s[0-9]\.sitemeter\.com
 ^s[0-9]\.cnzz\.com
 ^track(er|ing)?\.
@@ -51,8 +56,7 @@ cqcounter\.com
 liveadvert
 dynamic\.dol\.ru
 doubleclick
-^static\.
-^connect\.
 erasercash
 fastclick
-uservoice\.com
+#uservoice\.com
+buzzfeed\.com
