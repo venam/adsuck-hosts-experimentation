@@ -41,6 +41,7 @@ twitter\.com
 ^s[0-9]\.cnzz\.com
 ^track(er|ing)?\.
 ^u.*\.spylog\.com
+assoc-
 # domains
 247realmedia\.com
 \.2o7\.net
@@ -51,7 +52,7 @@ adultfriendfinder\.com
 adtech\.com$
 casalemedia
 clickbank
-clickzs\.com$
+clickzs\.com
 cybermonitor\.com
 cqcounter\.com
 liveadvert
@@ -63,3 +64,4 @@ uservoice\.com
 buzzfeed\.com
 sharethis\.com
 disqus\.com
+amazon\.com
