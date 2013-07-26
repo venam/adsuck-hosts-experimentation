@@ -1,6 +1,7 @@
 # computer names
 facebook\.com
 twitter\.com
+\.twimg\.com
 ^i\.po\.st
 #those may be a little over board
 ^subscribe\. 
