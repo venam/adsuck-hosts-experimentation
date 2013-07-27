@@ -3,6 +3,10 @@ facebook\.com
 twitter\.com
 \.twimg\.com
 \.cedexis\.com
+plusone\.js
+#a harsh one
+apis\.google\.com
+plusone\.js
 ^i\.po\.st
 #those may be a little over board
 ^subscribe\. 
@@ -16,6 +20,7 @@ twitter\.com
 ^static\.[^4]
 ^store\.
 ^font\.
+/font-
 ^tempest\.
 ^fonts\.
 ^rest\.
