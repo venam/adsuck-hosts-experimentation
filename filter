@@ -27,7 +27,7 @@ plusone\.js
 ^rest\.
 ^widget\.
 ^widgets\.
-^stats\.[^((efnet.org)|(xonotic.org))]
+^stats\.(([^e][^f][^n][^e][^t])|([^x][^o][^n][^o][^t][^i][^c]))
 ^logs\.
 #######
 ^as\.mc\.
