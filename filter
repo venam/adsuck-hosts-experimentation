@@ -27,7 +27,7 @@ plusone\.js
 ^rest\.
 ^widget\.
 ^widgets\.
-^stats\.
+^stats\.[^(xonotic.org)]
 ^logs\.
 #######
 ^as\.mc\.
