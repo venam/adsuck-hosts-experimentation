@@ -18,7 +18,7 @@ plusone\.js
 ^vote\.
 ^affiliates\.
 ^connect\.
-^static\.[^4]
+^static\.[^4s][^ci][^hp]
 ^store\.
 ^font\.
 /font-
@@ -27,7 +27,7 @@ plusone\.js
 ^rest\.
 ^widget\.
 ^widgets\.
-^stats\.(([^e][^f][^n][^e][^t])|([^x][^o][^n][^o][^t][^i][^c]))
+^stats\.[^ex][^fo][^n]
 ^logs\.
 #######
 ^as\.mc\.
