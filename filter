@@ -12,9 +12,7 @@ plusone\.js
 #those may be a little over board
 ^subscribe\. 
 \.send\.
-/analytics/
 ^donate\.
-/analytic/
 ^vote\.
 ^affiliates\.
 ^connect\.
@@ -47,7 +45,7 @@ plusone\.js
 ^pub[0-9]\.
 ^s[0-9]\.sitemeter\.com
 ^s[0-9]\.cnzz\.com
-^track(er|ing)?\.
+#^track(er|ing)?\.
 ^u.*\.spylog\.com
 assoc-
 # domains
