@@ -34,6 +34,7 @@ plusone\.js
 ^count(er)?[0-9]+?\.
 ^banners?[0-9]+?\.
 ^ad(s|srv|serv|serve|server|v|vert)?[0-9]+?\.
+^clk\.
 #banner|ads|stat[^i][^c]|track|[^u]click|adx|2o7|hitbox|count|meter
 ^bid\.
 ^clicks?\.
