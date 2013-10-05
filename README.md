@@ -53,3 +53,6 @@ I intend to block a huge list of fishy websites and unblock bit by bit what I re
 Contributions are highly welcomed.  
 If you want to contribute you can check what is loaded in a page using the NET tool of firebug.  
 It might take time to analyse if only the good request are loaded but if multpliple person helps out then most of the geeky website will be safe.  
+
+####Warning
+Don't git clone this repo, just get the raw hosts file otherwise you'll pull too much useless data.
