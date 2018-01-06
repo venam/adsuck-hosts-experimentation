@@ -15,12 +15,8 @@ plusone\.js
 ^donate\.
 ^vote\.
 ^affiliates\.
-^connect\.
-^static\.[^4s][^ci][^hp]
 ^tempest\.
 ^rest\.
-^stats\.[^ex][^fo][^n]
-^logs\.
 #######
 ^as\.mc\.
 ^adfp\.
