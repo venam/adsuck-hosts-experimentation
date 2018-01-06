@@ -17,14 +17,8 @@ plusone\.js
 ^affiliates\.
 ^connect\.
 ^static\.[^4s][^ci][^hp]
-^store\.
-^font\.
-/font-
 ^tempest\.
-^fonts\.
 ^rest\.
-^widget\.
-^widgets\.
 ^stats\.[^ex][^fo][^n]
 ^logs\.
 #######
@@ -70,4 +64,3 @@ fastclick
 uservoice\.com
 buzzfeed\.com
 sharethis\.com
-amazon\.com
